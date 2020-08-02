@@ -10,7 +10,7 @@ Desenvolvido até o momento:
 - Controle do jogo pelo teclado
 - Sistema para shooting
 - Sistema para criação de mapa
-- Sistem de vários leveis
+- Sistema de vários leveis
 - Inimigos no jogo
 
 Ainda em desenvolvimento:
